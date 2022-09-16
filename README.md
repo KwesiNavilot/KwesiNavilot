@@ -17,12 +17,5 @@
 </section>
   
 <section>
-  <h1 style="text-align: center;">Hi there👋</h1>
+  <h1 style="text-align: center;">Hello there👋</h1>
 </section
-  
-- I’m [Andrews Kwesi Ankomahene](https://github.com/KwesiNavilot)
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
