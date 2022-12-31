@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data Science, Artificial Intelligence**
 
-- 💬 Ask me about **Java, PHP, Python, Laravel, Vue**
+- 💬 Ask me about **Java, PHP, Python, Laravel, Vue and React**
 
 - 📫 How to reach me **teamserviceskeep@gmail.com**
 
